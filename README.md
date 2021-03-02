@@ -1,6 +1,6 @@
 # LeadsWebApi
 ## Technology Stack
-- .NET 4.8
+- .NET Framework 4.8
 - Microsoft Visual Studio Community 2019
 - MSTest
 - RestSharp
